@@ -1,0 +1,184 @@
+store_data:
+  
+  lbl_shopicon: shopping icon
+  lbl_srchicon: search icon
+  lbl_notificon: notification icon
+  lbl_strmenu: STORES
+  lbl_menu_btn: headerMenuButton
+  str_listbtn: strListButton
+  str_listserv: SERVICES
+  str_service_name: WALNUT CREEK
+  str_servicelocat: LOCATION
+  str_service_hour: Mon - Fri 10-9 Sat 10-8 Sun 11-7
+  str_serviceph: 925-279-3000
+  str_servicephmain: 888-908-1158
+  str_servicemakeres: servicePopReservation
+  str_serviceviewmenu: servicePopViewMenu
+  str_servicetext: Broadway Plaza Shopping
+  str_detailsalesass: SALES ASSOCIATES
+  shop_home: SHOP
+  shop_gftproduct: GIFTS  
+  shop_gftprodclk: BY OCCASION
+  shop_annprodclk: ANNIVERSARY
+  shp_addtoshpingbag: ProductDetailShoppingBagButton
+  shp_addtobagiphone: ADD TO BAG
+  sales_msgicon: StoreDetailSalesAssociateSms
+  sales_chaticon: StoreDetailSalesAssociatesVideo
+  
+  pd_detail_more: 'ProductDetailMoreButton'
+  pd_detail_sizeguide: 'ProductDetailSizeGuideButton'
+  Size guide: 'ProductDetailSizeGuideButton'
+  More: 'ProductDetailMoreButton'
+  pd_detail_more_iphone: MORE
+  pd_detail_addto_wish: 'ADD TO WISH LIST'
+  pd_detail_wihslist_btnipad: 'ProductDetailWishListButton'
+  pd_detail_quan: 'ProductDetailQuantityLabel'
+  pd_detail_size: 'ProductDetailSizeLabel'
+  pd_detail_color: 'ProductDetailColorLabel'
+  iph_signin_btn: "SigninButton"
+  iph_signup_btn: "SignupButton"
+  iph_cntue_guest_btn: "ContinueGuestButton"
+  signin_btn: "SIGN IN"
+  signup_btn: "SIGN UP"
+  cntue_guest_btn: "CONTINUE AS GUEST"
+  pd_detail_addtoshop_text: 'ADD TO SHOPPING BAG'
+  wish_list_add: 'ADD'
+  create_new_button: 'CREATE NEW BUTTON'
+  pro_click_fordetails: 'CLICK HERE'
+  Choose Color: 'ProductDetailChooseColorButton'
+  Choose Size: 'ProductDetailChooseSizeButton'
+  Quantity: 'ProductDetailChooseQuantityButton'
+  promot_offers: 'ProductDetailPromotions'
+  
+  search_icon: search icon
+  search_verifytext: No Records Found
+  search_dismissagain: Search
+  
+  #-----------------Iteration 8---------------------
+  #Iteration 8 Nad Yaml data's
+  home_acc_btn: "ACCOUNT"
+  txt_box_eml: "EmailId"
+  txt_box_pwd: "Password"
+  txt_box_email_val: "qatest@test.com"
+  txt_box_pwd_val: "test@1234"
+  iph_signin_btn: "SigninButton"
+  acc_incrle_btn: "VIEW INCIRCLE DETAILS"
+  acc_edit_btn: "EDIT ACCOUNT INFO"
+  acc_log_out_btn: "Logout" 
+  acc_wish_list: "WISH LIST"
+  acc_pro_firstname: "FIRST NAME"
+  acc_pro_lastname: "LAST NAME"
+  acc_pro_shippingadd: "SHIPPING ADDRESS"
+  acc_pro_paymentmethod: "PAYMENT METHOD"
+  
+  
+  # WishList YML Data
+  Update Account: "EDIT ACCOUNT INFO"
+  View Incircle Details: "VIEW INCIRCLE DETAILS"
+  Log Out: "Logout"
+  Back: "Back"
+  incl_add_card: "IncircleAddCard"
+  incl_no_thanks: "IncircleNoThanksButton"
+  card_number: "35895456221568362"
+  incl_card_enter: "IncircleCardInput"
+  incl_addcard_scr_copy: "IncircleAddCardScreenCopy"
+  incl_viewincl_detail_ipad: "ViewIncircle"
+  incl_edit_info_ipad: "Edit"
+  incl_logout_ipad: "LogoutButton"
+  incl_myacc_page_ipad: "Welcome"
+  OK: "OK"
+  acc_update_save: "Save"
+  input_field0: "John"
+  input_field1: "smith"
+  input_field2: "420 water Ave, Newyork 10025"
+  input_field3: "Visa"
+  input_field4: "0000000000000"
+  input_field5: "05/16"      
+  acc_update_edit: "accountEditButton"
+  acc_edit_update_cancel: Cancel
+  accupdate_card_payment_detail: "accountScreenPaymentCardDetail"
+  acc_screen_edit_wish: "prodAddShopping"
+  acc_screen_addcart_wish: "prodAddShopping"
+  acc_incl_screen: "iPhSignInTitle"
+  acc_incl_screen_gift: "iPhSignInGiftCardAway"
+  acc_incl_screen_points: "iPhSignInAllPointsLabel"
+  acc_incl_scr_ipad: "signInLearnMoreButton"
+  acc_incl_scr_earn_ipad: "signInEarnedCards"
+  acc_edit_info_prof_ipad: "PROFILE"
+  acc_edit_info_pass_ipad: "PASSWORD"
+  acc_edit_info_sce_ipad: "Security Question"
+  acc_edit_scr_myacc_iphone: "MY ACCOUNT"
+  acc_edit_scr_edit_ipad: "Account Information"
+  acc_edit_scr_upd_ok: "OK"
+  acc_edit_scr_upd_save: "Save"
+  acc_edit_scr_back_iphone: "Back"
+  
+  #-------NAD- Iteration 8 YML
+  home_acc_btn: "ACCOUNT"
+  txt_box_eml: "Email Address"
+  txt_box_pwd: "Password"
+  txt_box_email_val: "qatest@test.com"
+  txt_box_pwd_val: "test@1234"
+  upd_acc_btn: "EDIT ACCOUNT INFORMATION"
+  txt_old_pwd: "test@123"
+  txt_old_wrng_pwd: "test@123"
+  txt_new_pwd:  "test@1234"
+  txt_wrng_pwd: "test" 
+  acc_nam_txt: ""
+  acc_las_nam_txt: "" 
+  acc_incrle_btn: "ViewIncircle"
+  acc_edit_btn: "Edit"
+  acc_log_out_btn: "LogoutButton" 
+  acc_bak_btn: "BACK"
+  acc_profile: "profile information"
+  acc_shp_add: "ShippingAddress"
+  acc_pay_mthd: "PaymentMethod"
+  acc_wish_list: "WishList"
+  acc_wish_share: Share
+  pwd_err_msg: "Password does not match. Please try again."
+  storeDirectionDone: "DONE"
+  txt_ans_fld: "Answer"
+  txt_ans_val: "test"
+  txt_card_fld: "CardNumber"
+  txt_card_val: "4111111111111111"
+  txt_bill_add: "BillingAddress"
+ 
+  iph_signin_btn: "SigninButton"
+  iph_signup_btn: "SignupButton"
+  iph_cntue_guest_btn: "ContinueGuestButton"
+  signin_btn: "SigninButton"
+  signup_btn: "SignupButton"
+  cntue_guest_btn: "ContinueGuestButton"
+  iphone_menu_btn: "headerMenuButton"
+  strs_popup_ok_btn: "OK"
+  sav_btn: "Save"
+  can_cl_btn: "Cancel"
+  iph_acc_incrle_btn: "ViewIncircle"
+  iph_acc_edit_btn: "Edit"
+  iph_acc_log_out_btn: "LogoutButton"
+  iph_acc_sav_btn: "Save"
+  iph_acc_bak_btn: "Back"
+  myacc_txt_box_shp_add: "Shipping Address"
+  shp_add_val: "80 CATHEDRAL RUE"
+  myacc_txt_box_fname: "FirstName"
+  myacc_txt_box_fname_val: "John"
+  myacc_lastname: "LastName"
+  myacc_lname_val: "Vasanth"
+  myacc_sucess_msg: "Account Information has been updated successfully."
+  myacc_lastname_iphone: "LastName"
+  sucess_msg: "Security answer does not match with the answer on the profile. Please try again"
+  old_pwd_fld: "OldPassword"
+  new_pwd_fld: "NewPassword"
+  con_pwd_fld: "ReEnter"
+  txt_con_pwd:  "test@1234" 
+  incl_Nothanks_btn: "No Thanks"
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 

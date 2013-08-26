@@ -1,0 +1,4 @@
+timeout_value:
+
+  time_out_ten: '10000'
+  time_out_three: '3000'
